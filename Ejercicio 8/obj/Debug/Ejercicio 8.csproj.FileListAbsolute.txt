@@ -1,0 +1,7 @@
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\bin\Debug\Ejercicio 8.exe.config
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\bin\Debug\Ejercicio 8.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\bin\Debug\Ejercicio 8.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\obj\Debug\Ejercicio 8.csprojAssemblyReference.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\obj\Debug\Ejercicio 8.csproj.CoreCompileInputs.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\obj\Debug\Ejercicio 8.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 8\obj\Debug\Ejercicio 8.pdb

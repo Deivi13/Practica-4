@@ -1,0 +1,14 @@
+C:\Users\Deivi\source\repos\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+C:\Users\Deivi\source\repos\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+C:\Users\Deivi\source\repos\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+C:\Users\Deivi\source\repos\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+C:\Users\Deivi\source\repos\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\Deivi\source\repos\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+C:\Users\Deivi\source\repos\Ejercicio 7\obj\Debug\Ejercicio 7.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\bin\Debug\Ejercicio 7.exe.config
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\bin\Debug\Ejercicio 7.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\bin\Debug\Ejercicio 7.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\obj\Debug\Ejercicio 7.csprojAssemblyReference.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\obj\Debug\Ejercicio 7.csproj.CoreCompileInputs.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\obj\Debug\Ejercicio 7.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\Practica 04\Ejercicio 7\obj\Debug\Ejercicio 7.pdb
