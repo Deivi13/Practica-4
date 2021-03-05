@@ -1,0 +1,14 @@
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.exe.config
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.exe
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.pdb
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.csprojAssemblyReference.cache
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.csproj.CoreCompileInputs.cache
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.exe
+C:\Users\Madelson Acosta\source\repos\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.pdb
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.exe.config
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.exe
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\bin\Debug\ejercicio 6 real.pdb
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.csprojAssemblyReference.cache
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.csproj.CoreCompileInputs.cache
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.exe
+C:\Users\Deivi\Downloads\Ejercicio 6\ejercicio 6 real\ejercicio 6 real\obj\Debug\ejercicio 6 real.pdb
